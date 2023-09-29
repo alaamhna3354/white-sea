@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\AAAA The Company\\\\nuxt 2 white-sea\\\\pages\\\\about\\\\index.vue",
+    "chunkName": "pages/about/index"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "E:\\\\AAAA The Company\\\\nuxt 2 white-sea\\\\pages\\\\contact\\\\index.vue",
+    "chunkName": "pages/contact/index"
+  },
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "E:\\\\AAAA The Company\\\\nuxt 2 white-sea\\\\pages\\\\order\\\\index.vue",
+    "chunkName": "pages/order/index"
+  },
+  {
+    "name": "services",
+    "path": "/services",
+    "component": "E:\\\\AAAA The Company\\\\nuxt 2 white-sea\\\\pages\\\\services\\\\index.vue",
+    "chunkName": "pages/services/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\AAAA The Company\\\\nuxt 2 white-sea\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

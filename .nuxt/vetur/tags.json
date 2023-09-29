@@ -1,0 +1,17 @@
+{
+  "CommonFooter": {
+    "description": "Auto imported from components/Common/Footer.vue"
+  },
+  "CommonHeader": {
+    "description": "Auto imported from components/Common/Header.vue"
+  },
+  "LoaderLoading": {
+    "description": "Auto imported from components/Loader/loading.vue"
+  },
+  "LoaderVPlaceload": {
+    "description": "Auto imported from components/Loader/VPlaceload.vue"
+  },
+  "Home": {
+    "description": "Auto imported from components/Home/Home.vue"
+  }
+}
